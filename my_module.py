@@ -1,4 +1,4 @@
 import datetime
 
-my_name = "Kevin"
+user_name = input()
 today_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
