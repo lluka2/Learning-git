@@ -3,7 +3,10 @@
 Many of the git commands used in the tutorial can be found below. As you follow
 along the tutorial, feel free to copy-paste to make things easier. Stuff
 enclosed in `<BRACKETS>`, and in all caps should be replaced with user-specific
-info
+info.
+
+This tutorial focuses on using the command line for git, but Graphical user
+interfaces (GUI) versions of git can be [found here][3].
 
 1. [Git local set-up (global config)](#config)
 1. [Cloning the repo](#clone)
@@ -85,3 +88,4 @@ $ git push -u origin <BRANCH_NAME>
 
 [1]: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 [2]: https://github.com/kescobo/KCLabgit
+[3]: https://git-scm.com/downloads/guis/
